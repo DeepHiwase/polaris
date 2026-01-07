@@ -23,3 +23,12 @@
   [x] Configure Convex provider with Clerk authentication
 
 ===
+
+- 4: Background Jobs
+  [x] Set up AI SDK
+  [x] Create blocking API route
+  [x] Set up Inngest SDK
+  [x] Create background job
+  [x] Compare: bloacking vs non-blocking
+
+===
