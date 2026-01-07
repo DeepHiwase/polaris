@@ -15,3 +15,11 @@
   [x] Build authenticated and unauthenticated views
 
 ===
+
+- 3: Database Setup
+  [x] Set up Convex account and project
+  [x] Install Convex SDK and CLI tools
+  [x] Create table with CRUD operations
+  [x] Configure Convex provider with Clerk authentication
+
+===
